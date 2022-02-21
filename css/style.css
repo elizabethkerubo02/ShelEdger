@@ -72,7 +72,7 @@ img{
 
 /* HEADER */
 .hero{
-    background: url (images/image_resources/home/showcase.jpg);
+    background: url ("images/image_resources/home/showcase.jpg");
     height: 100vh;
     position: relative;
     color: #fff;
@@ -106,7 +106,7 @@ img{
 
 }
 .hero *{
-    z-index: 2;
+    z-index: 10;
 }
  .blog{
     background: url ('images/image_resources/home/blog.jpg') no-repeat center center/cover;
