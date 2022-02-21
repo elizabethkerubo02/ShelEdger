@@ -12,7 +12,7 @@ body{
     background-color: #fff;
     color: #333;
     line-height: 1.6;
-    overflow:hidden;
+   
 }
 
 ul{
@@ -78,7 +78,7 @@ img{
     position: relative;
     color: #fff;
     width:100%;
-   overflow:none;
+  
  
 }
 /* selects classes in an inheritance way parent to child spacing required */
