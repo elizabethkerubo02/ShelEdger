@@ -72,7 +72,7 @@ img{
 
 /* HEADER */
 .hero{
-    background: url ("images/image_resources/home/showcase.JPG");
+    background:'url ("images/image_resources/home/showcase.jpg")';
     height: 100vh;
     position: relative;
     color: #fff;
