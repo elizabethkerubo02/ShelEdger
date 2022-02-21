@@ -109,7 +109,7 @@ img{
     z-index: 10;
 }
  .blog{
-    background: url("images/image_resources/home/blog.jpg") no-repeat center center/cover;
+    background: url("../images/image_resources/home/blog.jpg") no-repeat center center/cover;
     height: 30vh;
 }
 
